@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SimuladorPaginas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SimuladorPaginas/SimuladorPaginas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
