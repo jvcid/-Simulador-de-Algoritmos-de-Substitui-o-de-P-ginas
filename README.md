@@ -88,4 +88,4 @@ Relógio  → 14 falta(s) de página
 
 ## Dupla
 
-> João Victor Martins Cid & Aaron Magno Campos Nogue
+> João Victor Martins Cid & Aaron Magno Campos Nogueira
